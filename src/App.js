@@ -25,6 +25,7 @@ function App() {
 
   return (
     <div >
+      <h2>На гит!</h2>
       <h3>Счетчик:</h3>
       {count}
       <div>
